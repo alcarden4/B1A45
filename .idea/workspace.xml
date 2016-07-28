@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1243e796-6c91-4a65-ae2b-e54c91217d97" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A45_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b1A45_TriCompSnapVertexCat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js" afterPath="$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1A45_processVertexCat.php" afterPath="$PROJECT_DIR$/b1A45_processVertexCat.php" />
     </list>
     <ignored path="B1A45.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KLogger.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KLogger.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KLogger.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -76,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b1A45_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="b1A45_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
+            <state relative-caret-position="240">
+              <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -107,9 +104,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/b1A45_TriCompSnapVertexCat.html" />
-        <option value="$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js" />
         <option value="$PROJECT_DIR$/b1A45_processVertexCat.php" />
         <option value="$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js" />
+        <option value="$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js" />
       </list>
     </option>
   </component>
@@ -237,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469733411799</updated>
-      <workItem from="1469733412988" duration="1584000" />
+      <workItem from="1469733412988" duration="1748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1584000" />
+    <option name="totallyTimeSpent" value="1748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1620" height="987" extended-state="0" />
@@ -298,16 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
@@ -337,6 +324,16 @@
         <state relative-caret-position="105">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="108" column="64" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
