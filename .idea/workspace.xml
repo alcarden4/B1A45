@@ -27,28 +27,8 @@
       <file leaf-file-name="b1A45_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1A45_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="266" column="6" selection-start-line="250" selection-start-column="0" selection-end-line="266" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A45_ajaxMessagesVertexCategorical.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A45_processPos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A45_processPos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="570">
+              <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,21 +37,11 @@
       <file leaf-file-name="b1A45_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3315">
-              <caret line="283" column="25" selection-start-line="283" selection-start-column="25" selection-end-line="283" selection-end-column="25" />
+            <state relative-caret-position="362">
+              <caret line="598" column="10" selection-start-line="598" selection-start-column="10" selection-end-line="598" selection-end-column="10" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b1A45_processVertexCat.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b1A45_processVertexCat.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -98,7 +68,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
+    <option name="x" value="45" />
     <option name="y" value="23" />
     <option name="width" value="1620" />
     <option name="height" value="987" />
@@ -215,15 +185,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469733411799</updated>
-      <workItem from="1469733412988" duration="4175000" />
+      <workItem from="1469733412988" duration="5968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4175000" />
+    <option name="totallyTimeSpent" value="5968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="23" width="1620" height="987" extended-state="0" />
+    <frame x="45" y="23" width="1620" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -268,14 +238,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b1A45_processPos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -300,10 +262,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/b1A45_ajaxMessagesVertexCategorical.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/b1A45_TriCompExpHandlerVertexCat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3315">
-          <caret line="283" column="25" selection-start-line="283" selection-start-column="25" selection-end-line="283" selection-end-column="25" />
+        <state relative-caret-position="362">
+          <caret line="598" column="10" selection-start-line="598" selection-start-column="10" selection-end-line="598" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -312,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b1A45_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="266" column="6" selection-start-line="250" selection-start-column="0" selection-end-line="266" selection-end-column="6" />
+        <state relative-caret-position="570">
+          <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
           <folding />
         </state>
       </provider>
